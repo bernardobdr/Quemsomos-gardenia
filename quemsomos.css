@@ -1,0 +1,141 @@
+/*Início da estilização da página quem somos*/
+  /*início da introdução da página quem somos*/
+  .intro-quemsomos{
+    width: 100%;
+    background: url("img/quemsomos-homer.png") no-repeat center;
+    background-size: cover;
+    height: 500px;
+   }
+   /*início da estilização do parágrafo gardenia*/
+   .gardenia-quemsomos{
+     background: #D9E0E6;
+     width: 100%;
+     margin: auto;
+     display: flex;
+     margin-top: 20px;
+   }
+  
+   .gardenia-somos{
+     font-size: 20px;
+     line-height: 27px;
+     width: 510px;
+     height: 322px;
+     text-align: justify;
+     margin-left: 300px;
+   }
+   .gardenia-somos h2{
+     margin: 30px 0;
+     height: 35px;
+     font-size: 30px;
+     line-height: 35px;
+     text-align: center;
+   }
+   .gardenia-donuts{
+     width: 400px;
+     height: 400px;
+     margin: 20px;
+     margin-left: 60px;
+   }
+ 
+   /*início da estilização missão*/
+   .missao-quemsomos{
+     background: #484B4D;
+     width: 100%;
+     height: 370px;
+     margin: auto;
+     display: flex;
+     margin-top: 40px;
+   }
+   .missao-img{
+     width: 322px;
+     height: 322px;
+     margin-left: 280px;
+     margin-top: 25px;
+   }
+
+   .missao-texto {
+     color: #fff;
+   }
+   .missao-texto h2{
+     margin-top: 30px;
+     text-align: center;
+     font-size: 30px;
+     font-style: normal;
+     line-height: 36px;
+   }
+ .missao-texto p{
+     font-size: 20px;
+     line-height: 24px;
+     text-align: justify;
+     width: 515px;
+     margin-left: 140px;
+ }
+ 
+  /*início da estilização visão*/
+ 
+  .visao-quemsomos{
+   background: #D9E0E6;
+   width: 100%;
+   height: 370px;
+   margin: auto;
+   display: flex;
+   margin-top: 40px;
+ }
+ .visao-texto{
+   width: 520px;
+   height: 320px;
+   margin-left: 276px;
+   text-align: justify;
+   margin-top: 25px;
+ }
+ .visao-texto p{ 
+  font-size: 20px;
+  font-style: normal;
+  line-height: 24px;
+  color: #000;
+}
+ .visao-texto h2{
+   font-size: 30px;
+   font-style: normal;
+   margin-top: 25px;
+   text-align: center;
+ }
+ .visao-img{
+   width: 320px;
+   height: 320px;
+   margin-left: 160px;
+   margin-top: 20px;
+ }
+ 
+  /*início da estilização valores*/
+ 
+  .valores-quemsomos{
+   background: #484B4D;
+   width: 100%;
+   height: 370px;
+   margin: auto;
+   display: flex;
+   margin: 40px 0 30px 0;
+
+ }
+ .valores-img{
+   width: 322px;
+   height: 322px;
+   margin-left: 280px;
+   margin-top: 24px;
+ }
+ .valores-texto{
+   font-size: 20px;
+   font-style: normal;
+   line-height: 24px;
+   color: #fff;
+   width: 515px;
+   height: 320px;
+   margin-left: 150px;
+   text-align: justify;
+   margin-top: 25px;
+ }
+ .valores-texto h2{
+   margin-top: 25px;
+   text-align: center;
+ }
